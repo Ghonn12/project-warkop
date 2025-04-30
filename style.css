@@ -1,0 +1,31 @@
+.bg-darkred {
+  background-color: #7d0a0a;
+}
+
+.bg-red {
+  background-color: #bf3131 !important;
+}
+
+.text-red {
+  color: #bf3131;
+}
+
+.bg-gold {
+  background-color: #ead196;
+}
+
+.header {
+  background: url("./images/christopher-gerry-DavR-JZOe0M-unsplash.jpg")
+    no-repeat center center/cover;
+  height: 100vh;
+  color: white;
+}
+.header-overlay {
+  background-color: rgba(0, 0, 0, 0.5);
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+}
